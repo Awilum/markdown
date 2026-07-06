@@ -46,10 +46,6 @@
   kind: table
 ): set figure.caption(position: $if(table-caption-position)$$table-caption-position$$else$top$endif$)
 
-#show figure.where(
-  kind: image
-): set figure.caption(position: $if(figure-caption-position)$$figure-caption-position$$else$bottom$endif$)
-
 $if(highlighting-definitions)$
 $highlighting-definitions$
 $endif$
