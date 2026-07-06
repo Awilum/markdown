@@ -67,6 +67,7 @@ EOF
   pandoc \
     "${SRC[@]}" \
     --resource-path="$RESOURCE_PATH" \
+    --lua-filter=filters/image-width.lua \
     --pdf-engine=typst \
     --template="$SRC_DIR/template.typ" \
     --toc \
