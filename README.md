@@ -1,4 +1,4 @@
-# Markdown Introduction
+# Markdown
 
 This repository contains the source code for the educational book **“Markdown**, along with a build system for generating multiple output formats (PDF, EPUB) using Pandoc.
 
