@@ -28,7 +28,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/891ef201-6300-4b79-b8ff-429fb590f79b/)
+![](../images/lists-1.png)
 
 ### Упорядоченные списки
 
@@ -56,7 +56,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/f147eac6-479c-4145-aa2c-8a6e6f8bf1d2/)
+![](../images/lists-2.png)
 
 ### Вложенные элементы списка
 
@@ -100,4 +100,4 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/31353ac7-6be1-4ae8-be90-82cbd32d648a/)
+![](../images/lists-3.png)

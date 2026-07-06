@@ -22,7 +22,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/33783738-2cda-4f7e-a3ca-3d0948fde86a/)
+![](../images/blockquote-1.png)
 
 ### Блок цитат с несколькими абзацами
 
@@ -43,7 +43,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/664a8e35-edbf-4375-a1ea-712ccbc89e64/)
+![](../images/blockquote-2.png)
 
 ### Вложенные блоки цитат
 
@@ -70,7 +70,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/2238b6ab-0b61-43ea-8925-2e6a0762854d/)
+![](../images/blockquote-3.png)
 
 ### Блоки цитат с другими элементами
 
@@ -96,4 +96,4 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/529015a4-bc89-4753-9c3c-24646ea9563d/)
+![](../images/blockquote-4.png)
