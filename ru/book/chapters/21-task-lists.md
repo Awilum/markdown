@@ -26,7 +26,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/551f1233-2e29-46c3-8db5-348ca6f5ae8d/)
+![](../images/task-lists-1.png)
 
 ### Использование вложенных списков
 
@@ -58,4 +58,4 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/fba76177-1fa4-4979-a5e7-aace0dde7295/)
+![](../images/task-lists-2.png)

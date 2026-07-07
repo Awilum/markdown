@@ -20,7 +20,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/fadd73f1-a1a2-4cd3-b882-0f5a35749386/)
+![](../images/highlight-1.png)
 
 ### Где используется маркер
 
@@ -45,4 +45,4 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/312b26b0-e67b-4f08-9c2a-5d76565ef039/)
+![](../images/highlight-2.png)

@@ -22,7 +22,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/5ec9e6b6-93a6-4c1e-8f42-c5974c4bdad7/)
+![](../images/links-1.png)
 
 ### Ссылки с заголовками (Titles)
 
@@ -42,7 +42,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/d95088f5-0ead-4a38-a583-35a8af9446d4/)
+![](../images/links-2.png)
 
 ### Форматирование ссылок
 
@@ -62,7 +62,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/b1f3b8e9-c0b0-4ed0-a9f8-c339f69087bc/)
+![](../images/links-3.png)
 
 ### Ссылки на URL и Email
 
@@ -84,4 +84,4 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/e4f04473-1d2c-4141-9e74-d94ce101528c/)
+![](../images/links-4.png)

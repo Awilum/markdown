@@ -28,7 +28,7 @@ console.log("Привет");
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/8759c658-5cb2-4b20-95bb-c028c22051c4/)
+![](../images/code-1.png)
 
 ### Встроенный Код
 
@@ -48,7 +48,7 @@ console.log("Привет");
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/c836a39a-0db7-4a7c-9381-369c4073ad42/)
+![](../images/code-2.png)
 
 ### Блоки Кода
 
@@ -78,7 +78,7 @@ function logMessage() {
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/41d38919-54c9-4517-9909-956590b26aa5/)
+![](../images/code-3.png)
 
 ### Спецификация Языка
 
@@ -110,7 +110,7 @@ function logMessage() {
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/f0e29ef2-4651-4684-8641-aa5f74e291de/)
+![](../images/code-4.png)
 
 Основные идентификаторы языков для подсветки кода:
 

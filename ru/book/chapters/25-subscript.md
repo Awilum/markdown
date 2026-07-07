@@ -18,4 +18,4 @@ H<sub>2</sub>O: Вода
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/376c85ca-4500-41a5-8d97-44512d7f6a11/)
+![](../images/subscript.png)

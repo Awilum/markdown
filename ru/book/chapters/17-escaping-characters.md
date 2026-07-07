@@ -24,7 +24,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/a90dc683-dced-4926-a445-b0ed1dfc8382/)
+![](../images/escaping-characters-1.png)
 
 ### Пример из документации Markdown
 
@@ -40,7 +40,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/b97b96ae-e99e-4ae4-b2d7-645ed75d62bf/)
+![](../images/escaping-characters-2.png)
 
 ### Символы, которые можно экранировать
 

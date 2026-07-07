@@ -38,4 +38,4 @@ JavaScript
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/0ae40fc9-6875-4905-b84e-cdebcdd48990/)
+![](../images/definition-lists.png)

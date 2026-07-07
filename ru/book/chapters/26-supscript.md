@@ -18,4 +18,4 @@ E=mc<sup>2</sup>: Формула относительности Эйнштейн
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/47f06d28-4c5a-4c4b-ad25-7067ccf9640b/)
+![](../images/superscript.png)

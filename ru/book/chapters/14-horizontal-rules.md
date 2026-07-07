@@ -38,4 +38,4 @@ ___
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/c8baaf49-ac87-475d-8c55-a3f973055151/)
+![](../images/horizontal-rules-1.png)

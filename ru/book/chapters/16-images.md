@@ -20,7 +20,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/a97c81e1-99a7-4c2a-8215-83c1b16edd3e/)
+![](../images/images-1.png)
 
 ### Ссылки на изображения
 
@@ -40,7 +40,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/d1103fea-ca21-4bde-8e7e-3d6da0acde1a/)
+![](../images/images-1.png)
 
 ### Изображения с изменением размера
 
@@ -60,7 +60,7 @@
 
 **Результат (Отображение):**
 
-![](https://ucarecdn.stepik.net/7f55e112-d5c4-4430-981b-075de8ba63c8/)
+![](../images/images-1.png)
 
 ### Локальные изображения
 
@@ -80,4 +80,4 @@
 
 Результат (Отображение):
 
-![](https://ucarecdn.stepik.net/7f23f271-824b-466a-ae86-37e3ccdc20ca/)
+![](../images/images-1.png)
