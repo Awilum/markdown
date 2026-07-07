@@ -3,6 +3,6 @@ function Image(img)
     return img
   end
 
-  img.attributes["width"] = "70%"
+  img.attributes["width"] = "80%"
   return img
 end
