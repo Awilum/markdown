@@ -65,6 +65,7 @@ EOF
   echo "Building PDF ($LOCALE)..."
 
   pandoc \
+    -f markdown+autolink_bare_uris \
     "${SRC[@]}" \
     --resource-path="$RESOURCE_PATH" \
     --lua-filter=filters/image-width.lua \
@@ -77,6 +78,7 @@ EOF
   echo "Building EPUB ($LOCALE)..."
 
   pandoc \
+    -f markdown+autolink_bare_uris \
     "${SRC[@]}" \
     --resource-path="$RESOURCE_PATH" \
     --toc \
