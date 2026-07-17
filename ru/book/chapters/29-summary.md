@@ -6,7 +6,7 @@
 
 Если вы хотите проверить свои навыки и получить ещё больше практического опыта, пройдите полный интерактивный курс на платформе Stepik:
 
-https://stepik.org/a/187888
+[Записаться на курс «Markdown»](https://stepik.org/a/187888?utm_source=ebook&utm_medium=book&utm_campaign=markdown_book&utm_content=markdown)
 
 В курсе вас ждут:
 
